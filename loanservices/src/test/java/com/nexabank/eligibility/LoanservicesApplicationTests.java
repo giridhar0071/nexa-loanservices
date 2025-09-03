@@ -1,4 +1,4 @@
-package com.nexabank.loanservices;
+package com.nexabank.eligibility;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
